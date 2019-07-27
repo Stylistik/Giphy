@@ -48,8 +48,9 @@ function handleButtonClick() {
         image.appendTo("#imagesDiv") 
     }
             
-    })
+    }) 
 }
+
 
 
 
